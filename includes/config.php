@@ -20,7 +20,7 @@ if(!$db_select)
 	}
 mysqli_query($conn,"SET NAMES UTF8");
 
-error_reporting(E_ALL ^ E_DEPRECATED);
+//error_reporting(E_ALL ^ E_DEPRECATED);
 
 
 
